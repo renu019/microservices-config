@@ -1,4 +1,4 @@
-loan.msg =Welcome to the EazyBank Loans Prod application
+loan.msg=Welcome to the EazyBank Loans Prod application
 loan.build-version=1
 
 loan.mailDetails.hostName=prod-loans@eazybytes.com
